@@ -12,6 +12,7 @@ Different leetcode questions solved
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,11 +56,13 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -76,6 +79,7 @@ Different leetcode questions solved
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +88,12 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
