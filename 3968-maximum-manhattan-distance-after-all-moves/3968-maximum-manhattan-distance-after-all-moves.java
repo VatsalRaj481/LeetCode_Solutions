@@ -1,30 +1,21 @@
 class Solution {
     public int maxDistance(String moves) {
-       int ans=0;
-       int[][] sign = {
-        {1,1},
-        {1,-1},
-        {-1,1},
-        {-1,-1}
-       };
+        int up = 0, down = 0, left = 0, right = 0, blank = 0;
 
-       for(int[] s:sign){
-        int cur=0;
-        for(char c:moves.toCharArray()){
-            if(c=='_'){
-                cur++;
-            }
-            else{
-                int dx=0,dy=0;
-                if(c=='L')dx=-1;
-                else if(c=='R')dx=1;
-                else if(c=='U')dy=1;
-                else dy=-1;
-                cur+=s[0]*dx+s[1]*dy;
+        for (char ch : moves.toCharArray()) {
+            if (ch == 'U') {
+                up++;
+            } else if (ch == 'D') {
+                down++;
+            } else if (ch == 'L') {
+                left++;
+            } else if (ch == 'R') {
+                right++;
+            } else {
+                blank++;
             }
         }
-        ans=Math.max(ans,cur);
-       }
-       return ans; 
+
+        return Math.abs(right - left) + Math.abs(up - down) + blank;
     }
 }
