@@ -17,6 +17,7 @@ Different leetcode questions solved
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -106,11 +107,13 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,8 +122,18 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
