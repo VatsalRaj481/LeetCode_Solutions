@@ -13,6 +13,7 @@ Different leetcode questions solved
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -99,6 +100,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -141,6 +143,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
