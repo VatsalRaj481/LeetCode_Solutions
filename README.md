@@ -56,6 +56,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -70,6 +71,7 @@ Different leetcode questions solved
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
