@@ -58,6 +58,7 @@ Different leetcode questions solved
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
@@ -130,6 +131,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
