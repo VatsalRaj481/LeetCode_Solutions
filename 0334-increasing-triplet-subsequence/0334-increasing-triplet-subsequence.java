@@ -5,7 +5,7 @@ class Solution {
             if(i<=first){
                 first=i;
             }
-            else if(i>first && i<=second){
+            else if(i<=second){
                 second=i;
             }
             else return true;
