@@ -6,6 +6,7 @@ Different leetcode questions solved
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -45,6 +46,7 @@ Different leetcode questions solved
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -144,6 +146,7 @@ Different leetcode questions solved
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
