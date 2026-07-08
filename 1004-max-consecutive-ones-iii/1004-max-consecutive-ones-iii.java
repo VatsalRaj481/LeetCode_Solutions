@@ -5,13 +5,11 @@ class Solution {
         for(int right=0;right<nums.length;right++){
             if(nums[right]==0){
                 zeros++;
-                if(zeros>k){
-                    while(zeros>k){
-                        if(nums[left]==0){
-                            zeros--;
-                        }
-                        left++;
+                while(zeros>k){
+                    if(nums[left]==0){
+                        zeros--;
                     }
+                    left++;
                 }
             }
             int len=right-left+1;
