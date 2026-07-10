@@ -194,6 +194,7 @@ Different leetcode questions solved
 | [0443-string-compression](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -235,6 +236,7 @@ Different leetcode questions solved
 | [0394-decode-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -269,6 +271,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
