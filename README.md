@@ -150,6 +150,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -224,6 +225,7 @@ Different leetcode questions solved
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -290,11 +292,13 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
