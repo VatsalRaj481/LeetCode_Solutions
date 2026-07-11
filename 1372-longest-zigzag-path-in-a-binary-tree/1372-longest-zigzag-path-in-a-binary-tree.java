@@ -9,12 +9,12 @@ class Solution {
         return longest;
     }
 
-    private void dfs(TreeNode root, int count, char prevMove) {
+    private void dfs(TreeNode root, int count, char lastDir) {
         if (root == null) return;
 
         longest = Math.max(longest, count);
 
-        if (prevMove == RIGHT) {
+        if (lastDir == RIGHT) {
             dfs(root.left, count + 1, LEFT);
             dfs(root.right, 1, RIGHT);
         } else {
