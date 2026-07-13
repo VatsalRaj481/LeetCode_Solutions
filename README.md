@@ -62,6 +62,7 @@ Different leetcode questions solved
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
