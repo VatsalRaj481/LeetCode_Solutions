@@ -25,7 +25,7 @@ class Solution {
             //case 2:no right child
             if(root.right==null)return root.left;
 
-            //case 3:no children
+            //case 3:two children
             TreeNode successor = findMin(root.right);
             root.val=successor.val;
             root.right=deleteNode(root.right,successor.val);
