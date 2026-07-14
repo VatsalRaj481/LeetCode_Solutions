@@ -60,6 +60,7 @@ Different leetcode questions solved
 | [1657-determine-if-two-strings-are-close](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -164,6 +165,7 @@ Different leetcode questions solved
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -305,6 +308,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
