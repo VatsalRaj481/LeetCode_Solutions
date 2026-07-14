@@ -39,6 +39,7 @@ Different leetcode questions solved
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -123,6 +124,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -251,6 +253,7 @@ Different leetcode questions solved
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
@@ -350,4 +353,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
