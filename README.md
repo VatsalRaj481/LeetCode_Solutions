@@ -134,6 +134,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
@@ -273,6 +274,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -386,4 +388,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
