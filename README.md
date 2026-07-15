@@ -11,6 +11,7 @@ Different leetcode questions solved
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
@@ -351,6 +352,7 @@ Different leetcode questions solved
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
