@@ -277,6 +277,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
@@ -350,6 +351,7 @@ Different leetcode questions solved
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Tree
