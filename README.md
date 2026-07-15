@@ -39,6 +39,7 @@ Different leetcode questions solved
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -96,6 +97,7 @@ Different leetcode questions solved
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -221,6 +223,7 @@ Different leetcode questions solved
 | [0374-guess-number-higher-or-lower](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -246,6 +249,7 @@ Different leetcode questions solved
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
