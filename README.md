@@ -21,6 +21,7 @@ Different leetcode questions solved
 | [0334-increasing-triplet-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -84,6 +85,7 @@ Different leetcode questions solved
 | [0334-increasing-triplet-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -283,6 +285,7 @@ Different leetcode questions solved
 | [0198-house-robber](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
