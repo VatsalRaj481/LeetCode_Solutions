@@ -21,6 +21,7 @@ Different leetcode questions solved
 | [0283-move-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -92,6 +93,7 @@ Different leetcode questions solved
 | [0011-container-with-most-water](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -105,6 +107,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -316,6 +319,7 @@ Different leetcode questions solved
 | [0198-house-robber](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
