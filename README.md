@@ -34,6 +34,7 @@ Different leetcode questions solved
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -235,6 +236,7 @@ Different leetcode questions solved
 | [0036-valid-sudoku](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -372,6 +374,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
