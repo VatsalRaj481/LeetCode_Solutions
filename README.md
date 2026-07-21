@@ -189,6 +189,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -225,6 +226,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
@@ -310,6 +312,7 @@ Different leetcode questions solved
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -352,6 +355,7 @@ Different leetcode questions solved
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
