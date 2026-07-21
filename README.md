@@ -74,6 +74,7 @@ Different leetcode questions solved
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -405,6 +406,7 @@ Different leetcode questions solved
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0901-online-stock-span](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -424,6 +426,7 @@ Different leetcode questions solved
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -495,4 +498,8 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
