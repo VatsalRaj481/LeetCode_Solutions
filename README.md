@@ -15,6 +15,7 @@ Different leetcode questions solved
 | [0073-set-matrix-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -348,6 +349,7 @@ Different leetcode questions solved
 | [0064-minimum-path-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
