@@ -68,6 +68,7 @@ Different leetcode questions solved
 | [3411-maximum-subarray-with-equal-products](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -103,6 +104,7 @@ Different leetcode questions solved
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@ Different leetcode questions solved
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -456,6 +459,7 @@ Different leetcode questions solved
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
