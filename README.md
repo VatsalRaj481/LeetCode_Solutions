@@ -26,6 +26,7 @@ Different leetcode questions solved
 | [0228-summary-ranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -398,6 +399,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -441,6 +443,7 @@ Different leetcode questions solved
 | [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
