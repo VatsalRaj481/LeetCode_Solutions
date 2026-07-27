@@ -172,6 +172,7 @@ Different leetcode questions solved
 | [0394-decode-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0415-add-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
