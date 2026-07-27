@@ -90,6 +90,7 @@ Different leetcode questions solved
 | [0128-longest-consecutive-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0383-ransom-note](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -161,6 +162,7 @@ Different leetcode questions solved
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
@@ -185,6 +187,7 @@ Different leetcode questions solved
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
