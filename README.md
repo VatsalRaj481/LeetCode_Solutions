@@ -151,6 +151,7 @@ Different leetcode questions solved
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -188,6 +189,7 @@ Different leetcode questions solved
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
@@ -558,4 +560,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
