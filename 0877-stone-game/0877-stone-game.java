@@ -1,4 +1,27 @@
-//Brute Force
+class Solution {
+    public boolean stoneGame(int[] piles) {
+        int n = piles.length;
+        int[][] dp = new int[n][n];
+
+        // Base case: one pile
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = piles[i];
+        }
+
+        // Build solutions for larger intervals
+        for (int len = 2; len <= n; len++) {
+            for (int left = 0; left + len - 1 < n; left++) {
+                int right = left + len - 1;
+                int takeLeft = piles[left] - dp[left + 1][right];
+                int takeRight = piles[right] - dp[left][right - 1];
+                dp[left][right] = Math.max(takeLeft, takeRight);
+            }
+        }
+        return dp[0][n - 1] > 0;
+    }
+}
+
+// Brute Force
 // class Solution {
 //     public boolean stoneGame(int[] piles) {
 //         return recurse(piles, 0, piles.length - 1, 0, 0, true);
@@ -21,23 +44,3 @@
 //         }
 //     }
 // }
-
-class Solution {
-    private Integer[][] dp;
-    public boolean stoneGame(int[] piles) {
-        int n = piles.length;
-        dp = new Integer[n][n];
-        return solve(piles,0,n-1)>0;
-    }
-    private int solve(int[] piles,int left,int right){
-        if(left==right){
-            return piles[left];
-        }
-        if(dp[left][right]!=null){
-            return dp[left][right];
-        }
-        int takeLeft = piles[left]-solve(piles,left+1,right);
-        int takeRight = piles[right]-solve(piles,left,right-1);
-        return dp[left][right]=Math.max(takeLeft,takeRight);
-    }
-}
