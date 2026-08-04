@@ -8,6 +8,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -358,6 +359,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
