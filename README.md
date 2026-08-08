@@ -138,6 +138,7 @@ Different leetcode questions solved
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -199,6 +200,7 @@ Different leetcode questions solved
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -386,6 +388,7 @@ Different leetcode questions solved
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -434,6 +437,7 @@ Different leetcode questions solved
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1406-stone-game-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
