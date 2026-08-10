@@ -275,6 +275,7 @@ Different leetcode questions solved
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -288,6 +289,7 @@ Different leetcode questions solved
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -317,6 +319,7 @@ Different leetcode questions solved
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -411,6 +414,7 @@ Different leetcode questions solved
 | [0997-find-the-town-judge](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
