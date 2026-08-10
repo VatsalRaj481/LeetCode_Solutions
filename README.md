@@ -88,6 +88,7 @@ Different leetcode questions solved
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3731-find-missing-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -340,6 +341,7 @@ Different leetcode questions solved
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +424,7 @@ Different leetcode questions solved
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
