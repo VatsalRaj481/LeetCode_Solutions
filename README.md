@@ -45,6 +45,7 @@ Different leetcode questions solved
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -315,6 +316,7 @@ Different leetcode questions solved
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -413,6 +415,7 @@ Different leetcode questions solved
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0997-find-the-town-judge](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -467,6 +470,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -657,4 +661,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
 <!---LeetCode Topics End-->
