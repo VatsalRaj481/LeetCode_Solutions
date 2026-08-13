@@ -73,6 +73,7 @@ Different leetcode questions solved
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -216,6 +217,7 @@ Different leetcode questions solved
 | [1657-determine-if-two-strings-are-close](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -312,6 +314,7 @@ Different leetcode questions solved
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3666-minimum-operations-to-equalize-binary-string/) | Hard |
 ## Depth-First Search
@@ -649,6 +652,7 @@ Different leetcode questions solved
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
