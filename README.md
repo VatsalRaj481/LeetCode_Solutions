@@ -301,6 +301,7 @@ Different leetcode questions solved
 | [0210-course-schedule-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0886-possible-bipartition/) | Medium |
@@ -349,6 +350,7 @@ Different leetcode questions solved
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
@@ -611,6 +613,7 @@ Different leetcode questions solved
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -622,6 +625,7 @@ Different leetcode questions solved
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -629,6 +633,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
