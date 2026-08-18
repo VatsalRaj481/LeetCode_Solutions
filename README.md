@@ -39,6 +39,7 @@ Different leetcode questions solved
 | [0486-predict-the-winner](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0506-relative-ranks](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -178,6 +179,7 @@ Different leetcode questions solved
 | [0414-third-maximum-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0506-relative-ranks](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -414,6 +416,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0506-relative-ranks](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
