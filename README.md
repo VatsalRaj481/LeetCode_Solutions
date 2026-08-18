@@ -219,6 +219,7 @@ Different leetcode questions solved
 | [0434-number-of-segments-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0500-keyboard-row](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
