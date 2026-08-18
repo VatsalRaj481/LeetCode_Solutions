@@ -37,6 +37,7 @@ Different leetcode questions solved
 | [0435-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0486-predict-the-winner](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0495-teemo-attacking](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0518-coin-change-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -540,6 +541,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0415-add-strings/) | Easy |
+| [0495-teemo-attacking](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
