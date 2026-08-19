@@ -29,6 +29,7 @@ Different leetcode questions solved
 | [0228-summary-ranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0289-game-of-life](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
@@ -379,6 +380,7 @@ Different leetcode questions solved
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0064-minimum-path-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0289-game-of-life](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -560,6 +562,7 @@ Different leetcode questions solved
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0415-add-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0495-teemo-attacking](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
