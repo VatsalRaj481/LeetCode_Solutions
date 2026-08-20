@@ -44,6 +44,7 @@ Different leetcode questions solved
 | [0506-relative-ranks](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0561-array-partition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0561-array-partition/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -388,6 +389,7 @@ Different leetcode questions solved
 | [0289-game-of-life](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -570,6 +572,7 @@ Different leetcode questions solved
 | [0289-game-of-life](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0415-add-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0495-teemo-attacking](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0495-teemo-attacking/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
