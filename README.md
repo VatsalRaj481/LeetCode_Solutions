@@ -108,6 +108,7 @@ Different leetcode questions solved
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3546-equal-sum-grid-partition-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -161,6 +162,7 @@ Different leetcode questions solved
 | [3411-maximum-subarray-with-equal-products](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +410,7 @@ Different leetcode questions solved
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -556,6 +559,7 @@ Different leetcode questions solved
 | [1140-stone-game-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3546-equal-sum-grid-partition-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
