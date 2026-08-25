@@ -77,6 +77,7 @@ Different leetcode questions solved
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1563-stone-game-v](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
@@ -143,6 +144,7 @@ Different leetcode questions solved
 | [1386-cinema-seat-allocation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -256,6 +258,7 @@ Different leetcode questions solved
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1927-sum-game/) | Medium |
@@ -280,6 +283,7 @@ Different leetcode questions solved
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2029-stone-game-ix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -652,6 +656,7 @@ Different leetcode questions solved
 | [0464-can-i-win](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0464-can-i-win/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
