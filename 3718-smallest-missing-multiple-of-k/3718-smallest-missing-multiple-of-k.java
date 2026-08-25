@@ -5,9 +5,9 @@ class Solution {
             set.add(num);
         }
         int multiple=k;
-        while(true){
-            if(!set.contains(multiple)) return multiple;
+        while(set.contains(multiple)){
             multiple+=k;
         }
+        return multiple;
     }
 }
