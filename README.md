@@ -87,6 +87,7 @@ Different leetcode questions solved
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -191,6 +192,7 @@ Different leetcode questions solved
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2383-minimum-hours-of-training-to-win-a-competition/) | Easy |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
