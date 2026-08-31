@@ -8,6 +8,38 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+class Solution {
+    public int[] nodesBetweenCriticalPoints(ListNode head) {
+        int min=Integer.MAX_VALUE,max=0;
+        int firstCritical=-1,prevCritical=-1;
+        int pos=2;
+        ListNode prev = head, current=head.next;
+        while(current.next!=null){
+            ListNode next=current.next;
+            boolean isCritical = (current.val<prev.val && current.val<next.val)||
+                                 (current.val>prev.val && current.val>next.val);
+            if(isCritical){
+                if(firstCritical==-1){
+                    firstCritical=pos;
+                }
+                if(prevCritical!=-1){
+                    int dist = pos - prevCritical;
+                    min=Math.min(dist,min);
+                }
+                prevCritical=pos;
+            } 
+            pos++;
+            prev=current;
+            current=next;
+        }
+        max=prevCritical-firstCritical;
+
+        return (firstCritical==-1 ||firstCritical==prevCritical)?new int[]{-1,-1}:new int[]{min,max};
+    }
+}
+
+/* 
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
         List<Integer> nodes = new ArrayList<>();
@@ -36,3 +68,4 @@ class Solution {
         return new int[]{min,max};
     }
 }
+*/
