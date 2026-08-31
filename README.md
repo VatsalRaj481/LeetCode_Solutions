@@ -664,6 +664,7 @@ Different leetcode questions solved
 | [0206-reverse-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
