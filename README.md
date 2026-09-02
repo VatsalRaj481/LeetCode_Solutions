@@ -322,6 +322,7 @@ Different leetcode questions solved
 | [0492-construct-the-rectangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0866-prime-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -742,6 +743,7 @@ Different leetcode questions solved
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0866-prime-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0866-prime-palindrome/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -850,4 +852,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0866-prime-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0866-prime-palindrome/) | Medium |
 <!---LeetCode Topics End-->
