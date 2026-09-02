@@ -56,6 +56,7 @@ Different leetcode questions solved
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
+| [0867-transpose-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -441,6 +442,7 @@ Different leetcode questions solved
 | [0417-pacific-atlantic-water-flow](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -635,6 +637,7 @@ Different leetcode questions solved
 | [0495-teemo-attacking](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0867-transpose-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
