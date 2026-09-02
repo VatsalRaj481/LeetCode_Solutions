@@ -107,6 +107,7 @@ Different leetcode questions solved
 | [3312-sorted-gcd-pair-queries](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -449,6 +450,7 @@ Different leetcode questions solved
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -638,6 +640,7 @@ Different leetcode questions solved
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
