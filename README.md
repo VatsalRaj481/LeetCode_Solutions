@@ -338,6 +338,7 @@ Different leetcode questions solved
 | [2029-stone-game-ix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -644,6 +645,7 @@ Different leetcode questions solved
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -801,6 +803,7 @@ Different leetcode questions solved
 | [1872-stone-game-viii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
