@@ -13,6 +13,7 @@ Different leetcode questions solved
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -445,6 +446,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0063-unique-paths-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0289-game-of-life](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0289-game-of-life/) | Medium |
@@ -569,6 +571,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
