@@ -126,6 +126,7 @@ Different leetcode questions solved
 | [3875-construct-uniform-parity-array-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -623,6 +624,7 @@ Different leetcode questions solved
 | [3312-sorted-gcd-pair-queries](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
