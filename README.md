@@ -148,6 +148,7 @@ Different leetcode questions solved
 | [0383-ransom-note](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -273,6 +274,7 @@ Different leetcode questions solved
 | [0521-longest-uncommon-subsequence-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -483,6 +485,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -535,6 +538,7 @@ Different leetcode questions solved
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
