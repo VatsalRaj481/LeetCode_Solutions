@@ -274,6 +274,7 @@ Different leetcode questions solved
 | [0551-student-attendance-record-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -593,6 +594,7 @@ Different leetcode questions solved
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
