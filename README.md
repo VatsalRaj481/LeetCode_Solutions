@@ -371,6 +371,7 @@ Different leetcode questions solved
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
