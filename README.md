@@ -270,6 +270,7 @@ Different leetcode questions solved
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
@@ -332,6 +333,7 @@ Different leetcode questions solved
 | [0007-reverse-integer](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0062-unique-paths](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0415-add-strings/) | Easy |
 | [0464-can-i-win](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -728,6 +730,7 @@ Different leetcode questions solved
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0464-can-i-win](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0464-can-i-win/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
