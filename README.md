@@ -262,6 +262,7 @@ Different leetcode questions solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -665,6 +666,7 @@ Different leetcode questions solved
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
@@ -944,4 +946,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
