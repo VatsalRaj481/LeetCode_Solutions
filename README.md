@@ -275,6 +275,7 @@ Different leetcode questions solved
 | [0434-number-of-segments-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0500-keyboard-row](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0504-base-7](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0504-base-7/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0551-student-attendance-record-i/) | Easy |
@@ -338,6 +339,7 @@ Different leetcode questions solved
 | [0464-can-i-win](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0504-base-7](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0866-prime-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0866-prime-palindrome/) | Medium |
