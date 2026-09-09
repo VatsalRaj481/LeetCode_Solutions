@@ -50,6 +50,7 @@ Different leetcode questions solved
 | [0561-array-partition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0575-distribute-candies/) | Easy |
+| [0598-range-addition-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -343,6 +344,7 @@ Different leetcode questions solved
 | [0492-construct-the-rectangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0507-perfect-number/) | Easy |
+| [0598-range-addition-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0866-prime-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
