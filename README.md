@@ -356,6 +356,7 @@ Different leetcode questions solved
 | [0507-perfect-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0866-prime-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -958,6 +959,7 @@ Different leetcode questions solved
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
