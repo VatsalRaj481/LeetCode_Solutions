@@ -221,6 +221,7 @@ Different leetcode questions solved
 | [2029-stone-game-ix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2383-minimum-hours-of-training-to-win-a-competition/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -312,6 +313,7 @@ Different leetcode questions solved
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2697-lexicographically-smallest-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -579,6 +581,7 @@ Different leetcode questions solved
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2697-lexicographically-smallest-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -647,6 +650,7 @@ Different leetcode questions solved
 | [1510-stone-game-iv](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
