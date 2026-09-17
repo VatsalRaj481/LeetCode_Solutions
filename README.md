@@ -218,6 +218,7 @@ Different leetcode questions solved
 | [0561-array-partition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -301,6 +302,7 @@ Different leetcode questions solved
 | [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -591,6 +593,7 @@ Different leetcode questions solved
 | [0541-reverse-string-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
