@@ -161,6 +161,7 @@ Different leetcode questions solved
 | [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -416,6 +417,7 @@ Different leetcode questions solved
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0841-keys-and-rooms](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -471,6 +473,7 @@ Different leetcode questions solved
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0841-keys-and-rooms](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0886-possible-bipartition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0886-possible-bipartition/) | Medium |
@@ -583,6 +586,7 @@ Different leetcode questions solved
 | [0443-string-compression](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -797,6 +801,7 @@ Different leetcode questions solved
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -811,6 +816,7 @@ Different leetcode questions solved
 | [0450-delete-node-in-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -820,6 +826,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
