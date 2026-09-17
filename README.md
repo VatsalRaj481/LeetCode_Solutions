@@ -56,6 +56,7 @@ Different leetcode questions solved
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0661-image-smoother](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -499,6 +500,7 @@ Different leetcode questions solved
 | [0417-pacific-atlantic-water-flow](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0661-image-smoother](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0835-image-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
