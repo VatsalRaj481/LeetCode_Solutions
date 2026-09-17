@@ -59,6 +59,7 @@ Different leetcode questions solved
 | [0661-image-smoother](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0697-degree-of-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -165,6 +166,7 @@ Different leetcode questions solved
 | [0575-distribute-candies](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0697-degree-of-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
