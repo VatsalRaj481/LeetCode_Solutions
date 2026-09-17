@@ -14,21 +14,18 @@
  * }
  */
 class Solution {
-    Set<Integer> set = new HashSet<>();
-    boolean flag=false;
     public boolean findTarget(TreeNode root, int k) {
-        dfs(root,k);
-        return flag;
+        Set<Integer> set = new HashSet<>();
+        return dfs(root,k,set);
     }
-    private void dfs(TreeNode node,int k){
+    private boolean dfs(TreeNode node,int k,Set<Integer> set){
         if(node==null){
-            return;
+            return false;
         }
         if(set.contains(k-node.val)){
-            flag=true;
+            return true;
         }
         set.add(node.val);
-        dfs(node.left,k);
-        dfs(node.right,k);
+        return dfs(node.left,k,set)||dfs(node.right,k,set);
     }
 }
