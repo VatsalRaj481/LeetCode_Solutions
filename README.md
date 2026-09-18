@@ -66,6 +66,7 @@ Different leetcode questions solved
 | [0733-flood-fill](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0835-image-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
@@ -559,6 +560,7 @@ Different leetcode questions solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
