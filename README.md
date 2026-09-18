@@ -70,6 +70,7 @@ Different leetcode questions solved
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0835-image-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
@@ -519,6 +520,7 @@ Different leetcode questions solved
 | [0566-reshape-the-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
