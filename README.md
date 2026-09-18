@@ -72,6 +72,7 @@ Different leetcode questions solved
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0835-image-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
@@ -323,6 +324,7 @@ Different leetcode questions solved
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
