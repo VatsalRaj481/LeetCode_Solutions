@@ -71,6 +71,7 @@ Different leetcode questions solved
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0835-image-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
@@ -175,6 +176,7 @@ Different leetcode questions solved
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -320,6 +322,7 @@ Different leetcode questions solved
 | [0709-to-lower-case](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
