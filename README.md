@@ -73,6 +73,7 @@ Different leetcode questions solved
 | [0766-toeplitz-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0812-largest-triangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0835-image-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
@@ -389,6 +390,7 @@ Different leetcode questions solved
 | [0507-perfect-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0866-prime-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
@@ -1026,6 +1028,7 @@ Different leetcode questions solved
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 ## Bracket Sequences
@@ -1036,4 +1039,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
