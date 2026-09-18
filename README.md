@@ -174,6 +174,7 @@ Different leetcode questions solved
 | [0697-degree-of-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [0771-jewels-and-stones](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -315,6 +316,7 @@ Different leetcode questions solved
 | [0680-valid-palindrome-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [0771-jewels-and-stones](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
