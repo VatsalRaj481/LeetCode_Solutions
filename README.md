@@ -399,6 +399,7 @@ Different leetcode questions solved
 | [1071-greatest-common-divisor-of-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1447-simplified-fractions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1510-stone-game-iv](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1510-stone-game-iv/) | Hard |
@@ -1031,6 +1032,7 @@ Different leetcode questions solved
 | [0812-largest-triangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
