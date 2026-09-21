@@ -18,6 +18,7 @@ Different leetcode questions solved
 | [0064-minimum-path-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -567,6 +568,7 @@ Different leetcode questions solved
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0077-combinations](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0077-combinations/) | Medium |
+| [0090-subsets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sliding Window
@@ -826,6 +828,7 @@ Different leetcode questions solved
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
