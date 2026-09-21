@@ -11,6 +11,7 @@ Different leetcode questions solved
 | [0027-remove-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0040-combination-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -564,6 +565,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0040-combination-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sliding Window
