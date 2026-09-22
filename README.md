@@ -574,6 +574,7 @@ Different leetcode questions solved
 | [0077-combinations](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sliding Window
@@ -692,6 +693,7 @@ Different leetcode questions solved
 | [0063-unique-paths-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
@@ -859,6 +861,7 @@ Different leetcode questions solved
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -879,6 +882,7 @@ Different leetcode questions solved
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -897,6 +901,7 @@ Different leetcode questions solved
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
