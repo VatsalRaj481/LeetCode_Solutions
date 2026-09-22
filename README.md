@@ -825,6 +825,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0086-partition-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
