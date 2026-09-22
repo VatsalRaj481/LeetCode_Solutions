@@ -502,6 +502,7 @@ Different leetcode questions solved
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -863,6 +864,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -884,6 +886,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -903,6 +906,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
