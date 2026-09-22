@@ -629,6 +629,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0027-remove-element/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -821,6 +822,7 @@ Different leetcode questions solved
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
