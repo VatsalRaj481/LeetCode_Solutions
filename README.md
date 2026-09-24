@@ -458,6 +458,7 @@ Different leetcode questions solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0133-clone-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
@@ -513,6 +514,7 @@ Different leetcode questions solved
 | [0099-recover-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0133-clone-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
@@ -847,6 +849,7 @@ Different leetcode questions solved
 | [0092-reverse-linked-list-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -884,6 +887,7 @@ Different leetcode questions solved
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
@@ -910,6 +914,7 @@ Different leetcode questions solved
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
