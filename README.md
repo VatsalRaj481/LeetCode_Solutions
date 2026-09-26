@@ -108,6 +108,7 @@ Different leetcode questions solved
 | [1684-count-the-number-of-consistent-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1840-maximum-building-height](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -202,6 +203,7 @@ Different leetcode questions solved
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -355,6 +357,7 @@ Different leetcode questions solved
 | [1657-determine-if-two-strings-are-close](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
