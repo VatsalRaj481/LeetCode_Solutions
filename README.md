@@ -315,6 +315,7 @@ Different leetcode questions solved
 | [0072-edit-distance](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -600,6 +601,7 @@ Different leetcode questions solved
 | [0090-subsets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -726,6 +728,7 @@ Different leetcode questions solved
 | [0115-distinct-subsequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
