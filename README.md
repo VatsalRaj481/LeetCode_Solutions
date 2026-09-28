@@ -25,6 +25,7 @@ Different leetcode questions solved
 | [0128-longest-consecutive-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -882,6 +883,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
