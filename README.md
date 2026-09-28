@@ -29,6 +29,7 @@ Different leetcode questions solved
 | [0139-word-break](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -272,6 +273,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -1142,4 +1144,16 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
