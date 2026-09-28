@@ -800,6 +800,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
@@ -852,6 +853,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -920,6 +922,7 @@ Different leetcode questions solved
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
@@ -947,6 +950,7 @@ Different leetcode questions solved
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
@@ -967,6 +971,7 @@ Different leetcode questions solved
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -1159,4 +1164,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
