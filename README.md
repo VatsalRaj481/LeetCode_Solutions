@@ -122,6 +122,7 @@ Different leetcode questions solved
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2383-minimum-hours-of-training-to-win-a-competition/) | Easy |
@@ -591,6 +592,7 @@ Different leetcode questions solved
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -764,6 +766,7 @@ Different leetcode questions solved
 | [1563-stone-game-v](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -1144,6 +1147,7 @@ Different leetcode questions solved
 | [0020-valid-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
