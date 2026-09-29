@@ -903,6 +903,7 @@ Different leetcode questions solved
 | [0137-single-number-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0191-number-of-1-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0389-find-the-difference/) | Easy |
