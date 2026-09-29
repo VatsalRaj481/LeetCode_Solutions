@@ -327,6 +327,7 @@ Different leetcode questions solved
 | [0166-fraction-to-recurring-decimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -542,6 +543,7 @@ Different leetcode questions solved
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -861,6 +863,7 @@ Different leetcode questions solved
 | [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -1034,6 +1037,7 @@ Different leetcode questions solved
 | [0014-longest-common-prefix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
