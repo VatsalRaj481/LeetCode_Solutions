@@ -180,6 +180,7 @@ Different leetcode questions solved
 | [0139-word-break](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0383-ransom-note](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -324,6 +325,7 @@ Different leetcode questions solved
 | [0139-word-break](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -618,6 +620,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -898,6 +901,7 @@ Different leetcode questions solved
 | [0090-subsets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0191-number-of-1-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -1109,6 +1113,7 @@ Different leetcode questions solved
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
@@ -1172,4 +1177,16 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
