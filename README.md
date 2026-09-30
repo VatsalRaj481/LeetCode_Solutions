@@ -417,6 +417,7 @@ Different leetcode questions solved
 | [0062-unique-paths](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0223-rectangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0415-add-strings/) | Easy |
@@ -1152,6 +1153,7 @@ Different leetcode questions solved
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0812-largest-triangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
