@@ -421,6 +421,7 @@ Different leetcode questions solved
 | [0166-fraction-to-recurring-decimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0223-rectangle-area](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0279-perfect-squares](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0415-add-strings/) | Easy |
@@ -490,6 +491,7 @@ Different leetcode questions solved
 | [0199-binary-tree-right-side-view](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -756,6 +758,7 @@ Different leetcode questions solved
 | [0198-house-robber](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0221-maximal-square/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0279-perfect-squares](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -1123,10 +1126,12 @@ Different leetcode questions solved
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0518-coin-change-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0518-coin-change-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
