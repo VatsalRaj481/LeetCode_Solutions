@@ -254,6 +254,7 @@ Different leetcode questions solved
 | [0561-array-partition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -352,6 +353,7 @@ Different leetcode questions solved
 | [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0649-dota2-senate](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0748-shortest-completing-word/) | Easy |
@@ -771,6 +773,7 @@ Different leetcode questions solved
 | [0464-can-i-win](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0464-can-i-win/) | Medium |
 | [0486-predict-the-winner](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
@@ -832,6 +835,7 @@ Different leetcode questions solved
 | [0394-decode-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -1183,6 +1187,7 @@ Different leetcode questions solved
 | [0022-generate-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
