@@ -157,6 +157,7 @@ Different leetcode questions solved
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -959,6 +960,7 @@ Different leetcode questions solved
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
