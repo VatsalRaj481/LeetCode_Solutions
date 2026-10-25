@@ -95,6 +95,7 @@ Different leetcode questions solved
 | [1030-matrix-cells-in-distance-order](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1140-stone-game-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -521,6 +522,7 @@ Different leetcode questions solved
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -541,6 +543,7 @@ Different leetcode questions solved
 | [0399-evaluate-division](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0886-possible-bipartition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0886-possible-bipartition/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -586,6 +589,7 @@ Different leetcode questions solved
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
 | [0886-possible-bipartition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -616,6 +620,7 @@ Different leetcode questions solved
 | [0867-transpose-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
