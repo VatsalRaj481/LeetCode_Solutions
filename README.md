@@ -1287,4 +1287,8 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0177-nth-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
