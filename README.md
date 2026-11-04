@@ -1302,4 +1302,5 @@ Different leetcode questions solved
 | [0178-rank-scores](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0184-department-highest-salary/) | Medium |
+| [0511-game-play-analysis-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
