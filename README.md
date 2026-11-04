@@ -1308,4 +1308,5 @@ Different leetcode questions solved
 | [0610-triangle-judgement](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1075-project-employees-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
