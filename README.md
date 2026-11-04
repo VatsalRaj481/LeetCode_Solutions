@@ -1307,4 +1307,5 @@ Different leetcode questions solved
 | [0607-sales-person](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0619-biggest-single-number/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
