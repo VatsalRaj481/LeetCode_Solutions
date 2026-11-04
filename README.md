@@ -1303,4 +1303,5 @@ Different leetcode questions solved
 | [0180-consecutive-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
