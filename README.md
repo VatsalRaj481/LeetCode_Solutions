@@ -103,6 +103,7 @@ Different leetcode questions solved
 | [1288-remove-covered-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -310,6 +311,7 @@ Different leetcode questions solved
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -703,6 +705,7 @@ Different leetcode questions solved
 | [0875-koko-eating-bananas](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -749,6 +752,7 @@ Different leetcode questions solved
 | [0567-permutation-in-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
