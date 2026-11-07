@@ -121,6 +121,7 @@ Different leetcode questions solved
 | [1840-maximum-building-height](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -729,6 +730,7 @@ Different leetcode questions solved
 | [0506-relative-ranks](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
