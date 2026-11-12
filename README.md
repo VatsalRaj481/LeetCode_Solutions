@@ -87,6 +87,7 @@ Different leetcode questions solved
 | [0819-most-common-word](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0835-image-overlap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0851-loud-and-rich](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0851-loud-and-rich/) | Medium |
+| [0853-car-fleet](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0867-transpose-matrix](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
@@ -314,6 +315,7 @@ Different leetcode questions solved
 | [0561-array-partition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0853-car-fleet](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0853-car-fleet/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1268-search-suggestions-system](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -912,6 +914,7 @@ Different leetcode questions solved
 | [0682-baseball-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -929,6 +932,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0739-daily-temperatures](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Simulation
