@@ -151,6 +151,7 @@ Different leetcode questions solved
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
@@ -712,6 +713,7 @@ Different leetcode questions solved
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -896,6 +898,7 @@ Different leetcode questions solved
 | [1732-find-the-highest-altitude](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
