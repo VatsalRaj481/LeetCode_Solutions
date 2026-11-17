@@ -18,7 +18,7 @@ class Solution {
         memo = new int[n + 1][k + 1];
         for (int[] row : memo) Arrays.fill(row, -1);
         cost = new int[n + 1][n + 1];
-        for (int[] row : cost) Arrays.fill(row, Integer.MAX_VALUE / 4);
+        for (int[] row : cost) Arrays.fill(row, Integer.MAX_VALUE / 2);
 
         for (int d = 1; d <= n / 2; d++) {
             int[][] tmp = new int[n + 1][n + 1];
