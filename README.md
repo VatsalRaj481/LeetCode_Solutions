@@ -140,6 +140,7 @@ Different leetcode questions solved
 | [2404-most-frequent-even-element](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -294,6 +295,7 @@ Different leetcode questions solved
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2383-minimum-hours-of-training-to-win-a-competition/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -334,6 +336,7 @@ Different leetcode questions solved
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
