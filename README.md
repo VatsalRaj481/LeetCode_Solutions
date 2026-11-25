@@ -190,6 +190,7 @@ Different leetcode questions solved
 | [3898-find-the-degree-of-each-vertex](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
@@ -259,6 +260,7 @@ Different leetcode questions solved
 | [3718-smallest-missing-multiple-of-k](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -756,6 +758,7 @@ Different leetcode questions solved
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1270,6 +1273,7 @@ Different leetcode questions solved
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0706-design-hashmap](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1347,6 +1351,7 @@ Different leetcode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1373,4 +1378,8 @@ Different leetcode questions solved
 | [0619-biggest-single-number](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/1075-project-employees-i/) | Easy |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
