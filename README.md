@@ -522,6 +522,7 @@ Different leetcode questions solved
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -984,6 +985,7 @@ Different leetcode questions solved
 | [2462-total-cost-to-hire-k-workers](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3360-stone-removal-game](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Recursion
