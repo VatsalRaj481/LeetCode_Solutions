@@ -192,6 +192,7 @@ Different leetcode questions solved
 | [3904-smallest-stable-index-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -308,6 +309,7 @@ Different leetcode questions solved
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -902,6 +904,7 @@ Different leetcode questions solved
 | [3665-twisted-mirror-path-count](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
