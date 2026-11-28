@@ -193,6 +193,7 @@ Different leetcode questions solved
 | [3934-smallest-unique-subarray](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -310,6 +311,7 @@ Different leetcode questions solved
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -354,6 +356,7 @@ Different leetcode questions solved
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -779,6 +782,7 @@ Different leetcode questions solved
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VatsalRaj481/LeetCode_Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
